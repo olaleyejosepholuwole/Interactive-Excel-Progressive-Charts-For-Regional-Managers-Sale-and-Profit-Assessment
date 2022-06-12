@@ -1,0 +1,2 @@
+# Interactive-Excel-Progressive-Charts-For-Regional-Managers-Sale-and-Profit-Assessment
+This project helps you assess the level of productivity amongst your company's regional mangers in a visually captivating and interactive manner using Excel Timelines and Slicers to capture the sale and profit performance of regional managers for each individual year as well the total  years of the company's historical dataset.
